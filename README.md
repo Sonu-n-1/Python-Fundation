@@ -61,33 +61,33 @@
 - **Extensibility:** Can integrate with languages such as C and C++.
 
 ---
-
-## 🔹1. Variables
-## 🔹2. Keywords
-## 🔹3. Multiple Assignment
-## 🔹4. Indexing
-## 🔹5. Slicing
-## 🔹6. Membership
-## 🔹7. Partition
-## 🔹8. Typecasting
-## 🔹9. Arthamatic Operations
-## 🔹10. Comparison Operators
-## 🔹11. Conditional Statements
-## 🔹12. Match/Case
-## 🔹13. Packages
-## 🔹14. Loops
-## 🔹15. Functions
-## 🔹16. Arguments
-## 🔹17. Lists
-## 🔹18. Tuples
-## 🔹19. Sets
-## 🔹20. Dictionary
-## 🔹21. Module and Libaries
-## 🔹22. File Handeling
-## 🔹23. Exceptions Handeling
-## 🔹24. Type Hints
-## 🔹25. OOPs
-## 🔹26. Data Science and Applications
+## What we Learn
+#### 🔹1. Variables
+#### 🔹2. Keywords
+#### 🔹3. Multiple Assignment
+#### 🔹4. Indexing
+#### 🔹5. Slicing
+#### 🔹6. Membership
+#### 🔹7. Partition
+#### 🔹8. Typecasting
+#### 🔹9. Arthamatic Operations
+#### 🔹10. Comparison Operators
+#### 🔹11. Conditional Statements
+#### 🔹12. Match/Case
+#### 🔹13. Packages
+#### 🔹14. Loops
+#### 🔹15. Functions
+#### 🔹16. Arguments
+#### 🔹17. Lists
+#### 🔹18. Tuples
+#### 🔹19. Sets
+#### 🔹20. Dictionary
+#### 🔹21. Module and Libaries
+#### 🔹22. File Handeling
+#### 🔹23. Exceptions Handeling
+#### 🔹24. Type Hints
+### 🔹25. OOPs
+#### 🔹26. Data Science and Applications
 
 
 
