@@ -86,7 +86,7 @@
 #### 🔹22. File Handeling
 #### 🔹23. Exceptions Handeling
 #### 🔹24. Type Hints
-### 🔹25. OOPs
+#### 🔹25. OOPs
 #### 🔹26. Data Science and Applications
 
 
